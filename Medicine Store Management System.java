@@ -505,7 +505,7 @@ class MediMain
               break;
            case 4:
               System.out.println("The System is Developed By");
-              System.out.println("Vedang Upadhyay");
+              System.out.println("Siddhant Rai");
               break;
            default :
               System.out.println("Invalid Entry.. Press Enter & Enter Option Again..");
